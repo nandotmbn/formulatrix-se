@@ -1,0 +1,6 @@
+@FormulatrixBWebAPI_HostAddress = http://localhost:5216
+
+GET {{FormulatrixBWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
